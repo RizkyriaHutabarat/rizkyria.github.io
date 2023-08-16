@@ -1,4 +1,4 @@
-// Fungsi untuk menghitung luas segitiga
+// Fungsi menghitung luas segitiga
 function hitungLuas() {
   const inputSisiLuas = parseFloat(document.getElementById("input-sisi-luas").value);
   const inputSisiLuas1 = parseFloat(document.getElementById("input-sisi-luas1").value);
